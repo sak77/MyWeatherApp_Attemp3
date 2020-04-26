@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyWeatherApp_Attemp3</string>
+    <array name="city_names">
+        <item>London</item>
+        <item>Gothenburg</item>
+        <item>Stockholm</item>
+        <item>Mountain View</item>
+        <item>New York</item>
+        <item>Berlin</item>
+    </array>
+</resources>
